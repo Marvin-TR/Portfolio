@@ -12,6 +12,7 @@ h1{
 nav{
     position: fixed;
     width: 60%;
+    z-index: 500;
 }
 
 nav i {
